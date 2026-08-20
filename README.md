@@ -35,7 +35,8 @@ Works on Linux, macOS, or Windows (via WSL/MinGW)
 gcc courier.c -o courier
 ./courier
 ```
-(Replace `courier.c` with the actual filename of the source file.)
+Enter student Id:`StudentID-CSE251002058-ProjectCodebase
+.c`
 📋 Usage
 On launch, you'll see a menu:
 ```
@@ -58,5 +59,6 @@ Add input validation and error handling.
 Replace `fflush(CSE251002058)` with a portable input-clearing method.
 Support dynamic/unlimited parcel storage instead of a fixed-size array.
 Add a delivery confirmation / proof-of-delivery step.
+
 📄 License
 This has no license...
